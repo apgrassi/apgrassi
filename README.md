@@ -9,28 +9,30 @@ Sou desenvolvedora mobile brasileira, com mais de 4 anos de experiência com **F
 
 Gosto de acompanhar um app do início ao fim, da ideia até a publicação nas lojas, e de resolver problemas reais de quem usa o produto.
 
-# Tecnologias
+### Tecnologias
 
 - Flutter & Dart
 - Clean Architecture
-- MobX (gerenciamento de estado)
+- MobX e Provider (gerenciamento de estado)
 - Flutter Modular (rotas e injeção de dependência)
-- Firebase (envio de mensagens)
+- Firebase (Authentication e envio de mensagens)
 - Consumo de APIs REST
 - Git & GitHub
+
+## Idiomas
+
+- Inglês: leitura de documentação técnica
 
 ## Projetos
 
 - **[StageUp](https://github.com/apgrassi/StageUp)** — App em desenvolvimento com Flutter, Clean Architecture, Flutter Modular e MobX que reúne shows em São Paulo em um só lugar, usa a localização do celular para encontrar os eventos mais próximos e direciona o público aos sites de compra de ingressos.
-- **[insurance_app_challenge](https://github.com/apgrassi/insurance_app_challenge)** — App de seguros desenvolvido como desafio técnico para uma vaga de Flutter, com tela de login, home com seções de seguros e menu lateral (drawer).
+- **[insurance_app_challenge](https://github.com/apgrassi/insurance_app_challenge)** — App de seguros desenvolvido como desafio técnico para uma vaga de Flutter, com login via Firebase Authentication, gerenciamento de estado com Provider, home com seções de seguros, menu lateral (drawer) e suporte Web.
 
 ## Aprendendo atualmente
 
-- Firebase Authentication
 - Novas abordagens de gerenciamento de estado
-- Lógica de programação com Python
 - Testes automatizados em Flutter
-- Inglês técnico
+- Lógica de programação com Python
 
 ## Contato
 
